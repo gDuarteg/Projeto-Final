@@ -27,7 +27,7 @@ tela = pygame.display.set_mode((800, 600),0,32)
 
 pygame.display.set_caption("Jogo A+")
 
-fundo = pygame.image.load("imagem_fundo.jpg").convert()
+#fundo = pygame.image.load(  ).convert()
 
 relogio = pygame.time.Clock()
 
